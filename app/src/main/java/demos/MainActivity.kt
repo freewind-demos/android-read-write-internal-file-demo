@@ -1,4 +1,4 @@
-package demos
+package demos.android.read.write.internal.file.demo
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
